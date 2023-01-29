@@ -51,6 +51,7 @@ html {
     margin-top: 43px;
     background: url(/img/slider.jpg) center / cover no-repeat;
     position: relative;
+    border-bottom: 1px solid #ccc;
 }
 
 .slider_heading {
