@@ -115,6 +115,11 @@ html {
     background-color: #fff;
 }
 
+.langnghe-item:hover {
+    box-shadow: 0 5px 5px rgb(243, 241, 241);
+    cursor: pointer;
+}
+
 .langnghe_body {
     margin: 16px;
 }
@@ -154,7 +159,7 @@ html {
 .dulich-item {
     width: calc(90% / 3);
     float: left;
-    margin: 30px 15px;
+    margin: 10px 15px;
     background-color: black;
     border-radius: 8px;
     -webkit-border-radius: 8px;
